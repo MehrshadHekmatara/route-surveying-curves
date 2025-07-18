@@ -26,11 +26,8 @@ A **simple circular curve** is a curve with a constant radius that connects two 
   **Used modules:**
   
   - `tkinter`, `tkinter.ttk`: for GUI design
-  - 
-  - `math`: for mathematical operations
-  - 
+  - `math`: for mathematical operations 
   - `matplotlib.pyplot`: for plotting the curve
-  - 
   - `numpy`: for numerical operations
 
 - **`simple_curve_guide.pdf`**
@@ -66,11 +63,8 @@ Key parameters include the radii of each arc (R₁, R₂), their respective cent
   **Used modules:**
   
   - `tkinter`, `tkinter.ttk`: for GUI interface
-  - 
   - `math`: for geometric and trigonometric calculations
-  - 
   - `matplotlib.pyplot`: for plotting the compound curve
-  - 
   - `numpy`: for numerical arrays and operations
 
 - **`compound_curve_guide.pdf`**
@@ -106,11 +100,8 @@ In this project, a special case of reverse curves is implemented, where **both p
   **Used modules:**
   
   - `tkinter`, `tkinter.ttk`: for creating the graphical interface
-  - 
   - `math`: for geometric calculations
-  - 
   - `matplotlib.pyplot`: for plotting the reverse curve
-  - 
   - `numpy`: for numerical operations and array handling
 
 - **`reverse_curve_guide.pdf`**
@@ -138,9 +129,7 @@ pip install matplotlib numpy
 ✅ Plotted diagrams for:
 
 - Simple curves
-- 
 - Compound curves
-- 
 - Reverse curves (parallel paths)
 
 These visual and numerical outputs assist in validating design accuracy and understanding geometric behavior in route surveying.
@@ -150,11 +139,8 @@ These visual and numerical outputs assist in validating design accuracy and unde
 ## 📍 Applications
 
 - Road and railway design
-- 
 - Horizontal alignment planning
-- 
 - Route optimization in transportation projects
-- 
 - Educational tool for surveying students
 
 ---
@@ -164,11 +150,8 @@ These visual and numerical outputs assist in validating design accuracy and unde
 Feel free to fork this repository and contribute by:
 
 - Improving the GUI/UX
-- 
 - Adding support for spiral (clothoid) curves
-- 
 - Extending the tool to vertical curves or 3D visualization
-- 
 - Refactoring code for modularity and testing
 
 Pull requests are very welcome!
